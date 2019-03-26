@@ -1,0 +1,14 @@
+<Extend>
+	<Collection>
+		<Ex>twist</Ex>
+		<Alternatives><a>twist</a><b>roll</b></Alternatives>
+	</Collection>
+	<Collection>
+		<Ex>right</Ex>
+		<Alternatives><a>right</a><b>r_</b><c>r-</c></Alternatives>
+	</Collection>
+	<Collection>
+		<Ex>left</Ex>
+		<Alternatives><a>left</a><b>l_</b><c>l-</c></Alternatives>
+	</Collection>
+</Extend>
